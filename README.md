@@ -6,6 +6,14 @@ Q-SHIELD: A Hybrid Post-Quantum Cybersecurity Framework for Secure Communication
 
 This repository contains the implementation, experimental scripts, datasets, and evaluation results of the **Q-SHIELD** framework, a hybrid post-quantum cybersecurity architecture designed to provide secure and efficient communication in the presence of classical and quantum adversaries.
 
+The following publicly available datasets were used in this work:
+
+UNSW-NB15
+CIC-IDS2017
+MAWI Traffic Archive
+
+Due to licensing and storage limitations, the datasets are not redistributed in this repository. Users may download them from their official sources and place them in the datasets/ directory before running the experiments.
+
 ---
 
 ## Abstract
